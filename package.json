@@ -1,0 +1,19 @@
+{
+  "name": "qr-generator",
+  "version": "1.0.0",
+  "description": "Generates QR codes with filenames from 001 to 250.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "qrcode": "^1.4.4"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "QR",
+    "generator"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
